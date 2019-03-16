@@ -23,6 +23,7 @@ print(yaxis)
 
 
 #for bar graphimport matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 import numpy as np
 yaxis=[20,1,17,3,2,8,6,5,9,19,18,13,22,14,15,5,2,7,6]
